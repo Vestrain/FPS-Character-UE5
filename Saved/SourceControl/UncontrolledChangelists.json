@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Levels/Map1.umap",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Assets/Characters/C1/GM_efek.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Assets/Characters/C1/BP_efek.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/IMC_Move.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/IMC_Defaul.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/IMC_Default.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/Actions/MoveForward.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/Actions/MoveRight.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/Actions/Jump.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/Actions/LookUp.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/Actions/LookRight.uasset",
+				"C:/Users/PC/Documents/Unreal Projects/MaxPloon/Content/Inputs/Actions/Crouch.uasset"
+			]
+		}
+	]
+}
